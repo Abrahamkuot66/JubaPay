@@ -1,0 +1,2 @@
+# JubaPay
+A fintech company
